@@ -1,0 +1,6 @@
+./Makefile
+./src/main.cpp
+./include/mpmc-bounded-queue.hpp
+./include/spsc-bounded-queue.hpp
+./include/mpsc-queue.hpp
+./include/spsc-queue.hpp
